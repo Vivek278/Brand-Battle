@@ -1,4 +1,4 @@
-### DS Initial Resources-1
+### DS Initial Resources
 
 **PPT**: [Link](https://drive.google.com/file/d/1VbMHw6hSLZoTXPJHTiSJPOO66fzEh1Nz/view?usp=sharing)
 
