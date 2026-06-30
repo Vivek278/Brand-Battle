@@ -1,8 +1,4 @@
-# Resources
-
-## Data Science
-
-### DS Session-1
+### DS Initial Resources-1
 
 **PPT**: [Link](https://drive.google.com/file/d/1VbMHw6hSLZoTXPJHTiSJPOO66fzEh1Nz/view?usp=sharing)
 
@@ -17,15 +13,8 @@
 - [Short tutorial](https://youtu.be/2uvysYbKdjM?si=NTTZiRfmeBNC3HYg) (sufficient for our project)
 - [Detailed Playlist](https://youtube.com/playlist?list=PLoosiE80TeTsWmV9i9c58mdDCSskIFdDS&si=jeuMlazUR7p30zNY)
 
-
-
-### DS Session-2
-
 **PPT**: [Link](https://drive.google.com/file/d/1PP2yWkThF9FlyYuz1RKvtFbYBbdV_B7G/view?usp=sharing)
 
 - [Odds of an event](https://youtu.be/ARfXDSkQf1Y?si=uliHJcgemx8tySzY)
 - [Interpretation of logistic function from log odds - 1](https://youtu.be/vN5cNN2-HWE?si=L6vxUh7SaDKKxFaA)
 - [Interpretation of logistic function from log odds - 2](https://youtu.be/BfKanl1aSG0?si=5c9s1yKkTEJw92zt)
-
-## Consulting
-
